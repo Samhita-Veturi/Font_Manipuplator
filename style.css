@@ -1,0 +1,31 @@
+body{
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 20px;
+}
+#note{
+    font-size: 23px;
+}
+hr{
+    width: 500px;
+}
+canvas{
+    border: dashed 5px black;
+    box-shadow: 5px 5px 18px gray;
+    margin: 10px;
+    padding: 10px;
+}
+#footer{
+    background-color: palevioletred;
+    position: fixed;
+    width: 100%;
+    font-size: 30px;
+    bottom: 0;
+    text-align: center;
+    padding: 10px;
+}
