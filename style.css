@@ -18,7 +18,8 @@ canvas{
     border: dashed 5px black;
     box-shadow: 5px 5px 18px gray;
     margin: 10px;
-    padding: 10px;
+    height: 600px;
+    width: 700px;
 }
 #footer{
     background-color: palevioletred;
@@ -28,4 +29,8 @@ canvas{
     bottom: 0;
     text-align: center;
     padding: 10px;
+}
+#Font{
+    font-size: 40px;
+    font-weight: bold;
 }
